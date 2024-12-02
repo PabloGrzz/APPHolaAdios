@@ -1,5 +1,7 @@
 APP de mensaje de despedida personalizado para Android
 
+https://github.com/PabloGrzz/APPHolaAdios.git
+
 Descripción del Proyecto
 
 Esta es una aplicación simple desarrollada en Android Studio que permite al usuario introducir su nombre y, al pulsar un botón, es redirigido a otra pantalla que muestra un mensaje de despedida personalizado. Si no se introduce un nombre al pulsar el botón, se mostrará un mensaje de aviso.
